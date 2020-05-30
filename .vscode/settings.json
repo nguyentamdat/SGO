@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/dat/SGO-Algo/env/bin/python3",
+    "python.dataScience.jupyterServerURI": "local",
+    "git.ignoreLimitWarning": true
+}
